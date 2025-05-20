@@ -72,3 +72,7 @@ This data should trigger a run of your code, and you should see the output of **
 * Make sure your code works.
 * Make the code as production-worthy as possible, we want to see your coding style and abilities.
 * Consider good coding design and practices along the way (e.g. OOP, SOLID).
+* You are welcome to use AI tools (such as ChatGPT, GitHub Copilot, etc.) to assist with the assignment. However, you must include a brief note describing:
+	•	Which AI tools you used
+	•	How you used them (e.g., for code generation, debugging, design ideas)
+	•	Why you chose to use them
